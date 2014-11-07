@@ -7,7 +7,7 @@ rem Backup & Sync
 rem cinst goodsync
 
 rem OS & Utilities
-cinst ccleaner teamviewer notepadplusplus.install peazip
+cinst ccleaner teamviewer notepadplusplus.install peazip classic-shell
 rem clover winrar silverlight
 
 rem Security & Privacy
