@@ -16,7 +16,9 @@ Then do these basics steps:
 2.Run multiinstall with admin rights.
 
 3.Go to chocolatey user scripts and run:
+
 3.1.chocolatey run scripts - to run commands on choco with admin rights.
+
 3.2.chocolatey update all - update the packages (only) installed with admin rights.
 
 Important
