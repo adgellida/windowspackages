@@ -7,8 +7,8 @@ rem Backup & Sync
 rem cinst goodsync
 
 rem OS & Utilities
-cinst ccleaner teamviewer notepadplusplus.install silverlight clover peazip
-rem winrar
+cinst ccleaner teamviewer notepadplusplus.install peazip
+rem clover winrar silverlight
 
 rem Security & Privacy
 cinst 360ts
@@ -33,7 +33,7 @@ rem Development
 
 rem Web Browsers
 cinst google-chrome-x64
-cinst adblockpluschrome
+rem cinst adblockpluschrome
 rem cinst googlechrome
 
 rem Social
