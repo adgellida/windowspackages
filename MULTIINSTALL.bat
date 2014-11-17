@@ -1,7 +1,7 @@
 @echo off
 
 rem multi-installer, select programs to install 
-rem v.2014.10.21-alpha - cmd version - multiselection available
+rem v.2014.11.17-alpha - cmd version - multiselection available
 
 rem Backup & Sync
 rem cinst goodsync
@@ -34,6 +34,7 @@ rem Development
 rem Web Browsers
 cinst google-chrome-x64
 rem cinst adblockpluschrome
+rem cinst ublock
 rem cinst googlechrome
 
 rem Social
