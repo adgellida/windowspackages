@@ -32,7 +32,7 @@ rem Development
 
 
 rem Web Browsers
-cinst google-chrome-x64
+cinst google-chrome-x64 adblockplusie
 rem cinst adblockpluschrome
 rem cinst ublock
 rem cinst googlechrome
