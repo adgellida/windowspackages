@@ -1,8 +1,7 @@
 ####windowspackages
 =============================================  
-### Script to install all your packages and do a term any minor configuration
 
-Right now is in command line interface. Alpha version.
+![](http://img.clubic.com/07668051-photo-windows-10-logo.jpg)
 
 Instructions
 =============================================
@@ -33,6 +32,4 @@ TO DO
 Release notes
 =============================================
 
-You can check it here
-
-https://github.com/adgellida/windowspackages/blob/master/Releasenotes.md
+You can check it [here](https://github.com/adgellida/windowspackages/blob/master/Releasenotes.md)
