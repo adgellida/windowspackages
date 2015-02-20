@@ -4,11 +4,11 @@ rem multi-installer, select programs to install
 rem v.2014.11.17-alpha - cmd version - multiselection available
 
 rem Backup & Sync
-rem cinst goodsync
+rem cinst dirsyncpro #to add
 
 rem OS & Utilities
-cinst ccleaner teamviewer notepadplusplus.install peazip classic-shell clover
-rem winrar silverlight
+cinst winrar notepadplusplus.install classic-shell 
+rem teamviewer clover ccleaner silverlight peazip 
 
 rem Security & Privacy
 cinst 360ts
@@ -33,8 +33,8 @@ rem Development
 
 rem Web Browsers
 cinst google-chrome-x64 adblockplusie
+rem cinst ublock #to add
 rem cinst adblockpluschrome
-rem cinst ublock
 rem cinst googlechrome
 
 rem Social
