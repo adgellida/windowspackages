@@ -32,4 +32,4 @@ TO DO
 Release notes
 =============================================
 
-You can check it [here](https://github.com/adgellida/windowspackages/blob/master/Releasenotes.md)
+You can check it [here](https://github.com/adgellida/windowspackages/releases)
