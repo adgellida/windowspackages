@@ -6,7 +6,7 @@
 Write-Host Installing Chocolatey and Nuget Package Explorer... Please wait
 Start-Sleep -s 3
 
-#### for Windows Vista and upper (7, 8, 8.1, etc) 
+#### for Windows Vista and upper (7, 8, 8.1, 10, etc) 
 iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
 
 #### for Windows XP
