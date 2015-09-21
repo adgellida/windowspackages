@@ -1,4 +1,4 @@
-Go to this [link] (http://windows.microsoft.com/en-us/windows-8/create-reset-refresh-media) and download and install your 8.1 system.
+Go to this [link] (http://www.microsoft.com/en-us/software-download/windows10ISO) and download and install your W10 system.
 
 [Extra link] (http://wudt.codeplex.com/)
 
@@ -8,11 +8,11 @@ X-Personalize - Change icons on desktop - Arrange icons automatically
 
 X-Toolbar modification - Size - Show always icons and notifications
 
-X-Configure Internet Explorer - Default page & search 
+X-Configure Edge - Default page & search 
 
 X-Install choco & run script - Configure:
 
--360ts - add bitdefender engine, not update notifications, not show boot time at initiation
+-360tse - add bitdefender engine and select action to do if a malware is founded.
 -notepadplusplus - not auto-completion
 -classic-shell - control panel as link and categories
 -google-chrome - not translate notification, not remembering passwords, not correction
@@ -26,11 +26,11 @@ X-Configure default programs
 
 -Extensions chrome:
 
-uBlock, hover zoom+, hacker view
+uBlock, hover zoom+, deluminate
 
--Extensions iexplorer:
+-Extensions edge:
 
-adBlock for ie
+ublock - test if exists
 
 -Optional:
 
