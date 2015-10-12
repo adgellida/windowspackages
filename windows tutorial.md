@@ -11,17 +11,17 @@ Put W7, 8.1, 10 on an USB with [this] (http://wudt.codeplex.com/)
 
 Replace "en-us" with "es-es" if you want a Spanish ISO.
 
+Configure system
+=============================================
+
 * Windows Update - Search Updates - Install Updates
-
 * Personalize - Change icons on desktop - Arrange icons automatically
-
 * Toolbar modification - Size - Show always icons and notifications
-
 * Configure Edge - Default page & search 
-
 * Install chocolatey & run script
 
-Configure:
+Configure apps
+=============================================
 
 * 360tse - add bitdefender engine and select action to do if a malware is founded.
 * notepadplusplus - not auto-completion
@@ -30,16 +30,16 @@ Configure:
 * sumatrapdf - default pdf viewer
 
 Configure default programs
+=============================================
 
 * Install propietary graphic driver - yes
-
 * Printer - Install all drivers, reboot, connect printer, go to printers, select as default
-
 * Extensions chrome:
 
 uBlock, hover zoom+, deluminate.
 
-Optional:
+Optional
+=============================================
 
 * Configure SSD if exists: TRIM - no - Due to possibly corruption
 
@@ -49,7 +49,8 @@ http://www.xatakawindows.com/bienvenidoawindows8/como-optimizar-el-funcionamient
 
 #####-#####-#####-#####-#####
 
-Improves:
+Improves
+=============================================
 
 * Block extension installation on chrome
 * Update automatically silent
