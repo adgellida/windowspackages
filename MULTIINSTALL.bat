@@ -7,7 +7,7 @@ rem Backup & Sync
 rem cinst -y dirsyncpro #to add
 
 rem OS & Utilities
-cinst -y notepadplusplus.install classic-shell teamviewer #winrar - to fix
+cinst -y notepadplusplus.install classic-shell teamviewer chocolateygui #winrar - to fix
 rem clover ccleaner silverlight peazip #not necessary
 
 rem Security & Privacy
@@ -39,7 +39,7 @@ rem cinst -y ublock #to add
 rem cinst -y adblockpluschrome #changed by ublock
 
 rem Social
-rem cinst -y skype
+cinst -y skype
 
 rem File Management
 

@@ -12,10 +12,9 @@ rem #### for Windows Vista and upper (7, 8, 8.1, 10, etc)
 rem #### for Windows XP
 rem @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%systemdrive%\chocolatey\bin
 
-cinst chocolateygui
-
 @powershell Write-Host "All the processes has been realized. Enjoy it!"
 
+rem cinst chocolateygui
 rem cinst OuiGuiChocolatey
 rem cinst ChocoPM.install -Pre
 pause
