@@ -8,7 +8,7 @@ Read the code and do your modifications.
 
 Then do these basics steps:
 
-1.Install chocolatey.
+1.Install chocolatey with admin rights.
 
 2.Run multiinstall with admin rights.
 
