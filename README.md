@@ -1,6 +1,6 @@
 ####windowspackages
 =============================================  
-![](http://img.clubic.com/07668051-photo-windows-10-logo.jpg)
+<img src="http://img.clubic.com/07668051-photo-windows-10-logo.jpg" width="80">
 
 Instructions
 =============================================
