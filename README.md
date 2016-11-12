@@ -1,6 +1,8 @@
-####windowspackages
+# windowspackages
 =============================================  
 <img src="http://img.clubic.com/07668051-photo-windows-10-logo.jpg" width="80">
+
+A simple script to install windows packages. Based on [Chocolatey](https://chocolatey.org) platform. 
 
 Instructions
 =============================================
