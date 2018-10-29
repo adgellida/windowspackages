@@ -5,8 +5,8 @@ Alternative 1:
 
 Download and install your:
 
-* W10 system [here] (https://www.microsoft.com/en-us/software-download/windows10ISO) - This includes Anniversary update, be careful with it
-* W8.1 system [here] (https://www.microsoft.com/en-us/software-download/windows8ISO)
+* W10 system [here] (https://www.microsoft.com/en-us/software-download/windows10) - This includes Anniversary update, be careful with it
+* W8.1 system [here] (https://www.microsoft.com/en-us/software-download/windows8)
 * W7 system [here] (https://www.microsoft.com/en-us/software-download/windows7)
 
 Put W7, 8.1, 10 on an USB with [this] (http://wudt.codeplex.com/) or burn on a DVD with [this] (https://cdburnerxp.se/en/home)
@@ -26,10 +26,15 @@ Configure system
 * Configure Edge - Default page & search 
 * Install chocolatey & run script
 
+Add
+=============================================
+
+* kaspersky free
+* acestream
+
 Configure apps
 =============================================
 
-* 360tse (or avast) - add bitdefender engine and select action to do if a malware is founded.
 * notepadplusplus - not auto-completion
 * classic-shell (optional) - control panel as link and categories
 * google-chrome - not translate notification, not remembering passwords, not correction
@@ -42,7 +47,7 @@ Configure default programs
 * Printer - Install all drivers, reboot, connect printer, go to printers, select as default
 * Extensions chrome:
 
-uBlock, hover zoom+, deluminate.
+uBlock origin, hover zoom+, deluminate.
 
 Optional
 =============================================
