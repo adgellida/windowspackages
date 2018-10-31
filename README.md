@@ -1,4 +1,4 @@
-<img src="http://img.clubic.com/07668051-photo-windows-10-logo.jpg" width="80"> windowspackages
+<img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo.png" width="80"> windowspackages
 =============================================  
 
 <p align="center">
