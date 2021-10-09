@@ -1,69 +1,106 @@
-#multi-installer, select programs to install 
-#powershell version - multiselection available
-
-#Backup & Sync
+cinst -y chocolateygui
 cinst -y megasync
-#cinst -y dirsyncpro
-
-#OS & Utilities
-cinst -y notepadplusplus.install classic-shell teamviewer chocolateygui winrar nettime volume2 ransomfree winsys
-#cinst choco-upgrade-all-at-startup chocolateygui clover ccleaner silverlight peazip qtcreator
-
-#Security & Privacy
-
+cinst -y open-shell
+cinst -y teamviewer
+cinst -y chocolateygui
+cinst -y winrar
+#cinst -y volume2
+cinst -y ransomfree
+cinst -y winsys
 cinst -y keepassxc
-
-#CD/DVD Tools
-#cinst -y imgburn
-
-#Photos & Graphics
-
-
-#Audio & Music
-
-
-#Videos & Movies
 cinst -y vlc
-
-#Audio & Music & Videos & Movies
-
-
-#Development
-cinst -y sublimetext3 smartgit hyper
-
-#Web Browsers
+cinst -y sublimetext4
+cinst -y smartgit
 cinst -y google-chrome
-#adblockplusie - not necessary on edge
+cinst -y qbittorrent
+cinst -y skype
+cinst -y steam
+cinst -y telegram
+cinst -y freefilesync
+cinst -y audacity
+cinst -y drawio
+cinst -y crystaldiskmark
+cinst -y crystaldiskinfo
+cinst -y malwarebytes
+cinst -y vscode
+cinst -y stopupdates10
+cinst -y origin
+cinst -y everything
+cinst -y aida64-extreme
+cinst -y spotify
+cinst -y slack
+cinst -y parsec
+cinst -y filezilla
+cinst -y element-desktop
+cinst -y putty
+cinst -y blender
+cinst -y firefox
+cinst -y vivaldi
+cinst -y teamspeak
+cinst -y vscode
+cinst -y openhardwaremonitor
+cinst -y anydesk.install
+cinst -y discord
+cinst -y sumo
+cinst -y deepl
+cinst -y xampp-80
+cinst -y msiafterburner
+cinst -y unity-hub
+#cinst -y unity
+cinst -y partitionwizard
+cinst -y zoom
+cinst -y windirstat
+cinst -y voicemeeter-potato.install
+cinst -y winpcap
+cinst -y vysor
+cinst -y streamlabs-obs
+cinst -y supertuxkart
+#cinst -y virtualbox virtualbox-guest-additions-guest.install
+cinst -y bluescreenview.install
+cinst -y mtputty
+cinst -y kicad
+cinst -y jdownloader
+cinst -y freecad
+cinst -y frostwire
+cinst -y jre8
+cinst -y dropbox
+cinst -y epicgameslauncher
+cinst -y converseen
+cinst -y brave
+cinst -y authy.install
+cinst -y androidstudio
+cinst -y etcher
+cinst -y macrocreator.install
+cinst -y processhacker.install
+cinst -y krita
+
+##not exist
+#kasperskysecurityclod
+#prismlivestudio
+#yawcam
+#revolt
+#converseen
+
+##others
+#spybot
+#superantispyware
+#obs-studio.install
+#stopupdates10
+#acestream
+#sumatrapdf.install
+#libreoffice
+#adblockplusie #not necessary on edge
 #googlechrome.dev
 #googlechrome
-#cinst -y ublock #to add
-#cinst -y adblockpluschrome #changed by ublock
-
-#Social
-cinst -y skype telegram
-
-#File Management
-
-
-#File Sharing
-cinst -y qbitorrent
-
-#News & Books
-
-
-#Office & Productivity
-cinst -y sumatrapdf.install libreoffice
-
-#Games
-
-cinst -y steam
-
-#Extra
-
-#stopupdates10 acestream kaspersky
-
-#Base command
-
-#cinst -y pkg1 pkg2 pkgN
-
-
+#ublock #to add
+#adblockpluschrome #changed by ublock
+#hyper
+#notepadplusplus.install
+#nettime
+#clover
+#ccleaner
+#silverlight
+#peazip
+#qtcreator
+#choco-upgrade-all-at-startup
+#dirsyncpro

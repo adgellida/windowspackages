@@ -5,15 +5,16 @@ Alternative 1:
 
 Download and install your:
 
-* W10 system [here] (https://www.microsoft.com/en-us/software-download/windows10) - This includes Anniversary update, be careful with it
+* W11 system [here] (https://www.microsoft.com/en-us/software-download/windows11)
+* W10 system [here] (https://www.microsoft.com/en-us/software-download/windows10)
 * W8.1 system [here] (https://www.microsoft.com/en-us/software-download/windows8)
 * W7 system [here] (https://www.microsoft.com/en-us/software-download/windows7)
 
-Put W7, 8.1, 10 on an USB with [this] (http://wudt.codeplex.com/) or burn on a DVD with [this] (https://cdburnerxp.se/en/home)
+Put W7, 8.1, 10, 11 on an USB with [this] (http://wudt.codeplex.com/) or burn on a DVD with [this] (https://cdburnerxp.se/en/home)
 
 Replace "en-us" with "es-es" if you want a Spanish ISO.
 
-Alternative 2 (includes Office):
+Alternative 2 (includes Office). At this moment no W11 or Office 2021 supported:
 
 * Microsoft Windows and Office ISO Download Tool [here] (https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool)
 
@@ -29,14 +30,13 @@ Configure system
 Add
 =============================================
 
-* kaspersky free
-* acestream
+* Nothing for now...
 
 Configure apps
 =============================================
 
 * notepadplusplus - not auto-completion
-* classic-shell (optional) - control panel as link and categories
+* open-shell (optional) - control panel as link and categories
 * google-chrome - not translate notification, not remembering passwords, not correction
 * sumatrapdf (or adobe reader CC) - default pdf viewer
 

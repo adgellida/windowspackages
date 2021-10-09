@@ -22,20 +22,20 @@ Read the code and do your modifications.
 
 Then do these basics steps:
 
-1.Install chocolatey with admin rights.
+1. Install [Chocolatey](https://github.com/adgellida/windowspackages/blob/master/installchocolatey_cmd.bat) with admin rights.
 
-2.Run multiinstall with admin rights.
+2. Run [MULTITINSTALL.ps1](https://github.com/adgellida/windowspackages/blob/master/MULTIINSTALL.ps1) with admin rights.
 
-3.Go to chocolatey user scripts and run:
+3. Go to [chocolatey user scripts](https://github.com/adgellida/windowspackages/tree/master/chocolatey%20user%20scripts) and run:
 
-3.1.chocolatey run scripts - to run commands on choco with admin rights.
+3.1. chocolatey run scripts - to run commands on choco with admin rights.
 
-3.2.chocolatey update all - update the packages (only) installed with admin rights.
+3.2. chocolatey update all - update the packages (only) installed with admin rights.
 
 Important
 =============================================
 * It hasn't been tested 100% yet. Give feedback!
-* If you want to know more, go to the wiki of this repo [here](https://github.com/adgellida/windowspackages/wiki).
+* If you want to know how to download Windows and a few things more go [here](https://github.com/adgellida/windowspackages/blob/master/windows%20tutorial.md).
 
 TO DO
 =============================================
