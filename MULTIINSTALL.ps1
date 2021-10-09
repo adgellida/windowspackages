@@ -1,11 +1,14 @@
+#This script is part of
+#https://github.com/adgellida/windowspackages
+#GNU General Public License v2.0
+
 cinst -y chocolateygui
 cinst -y megasync
 cinst -y open-shell
 cinst -y teamviewer
 cinst -y chocolateygui
 cinst -y winrar
-#cinst -y volume2
-cinst -y ransomfree
+#cinst -y volume2.install
 cinst -y winsys
 cinst -y keepassxc
 cinst -y vlc
@@ -14,15 +17,15 @@ cinst -y smartgit
 cinst -y google-chrome
 cinst -y qbittorrent
 cinst -y skype
-cinst -y steam
-cinst -y telegram
+cinst -y steam-client
+cinst -y telegram.install
 cinst -y freefilesync
 cinst -y audacity
 cinst -y drawio
 cinst -y crystaldiskmark
-cinst -y crystaldiskinfo
+cinst -y crystaldiskinfo.install
 cinst -y malwarebytes
-cinst -y vscode
+cinst -y vscode.install
 cinst -y stopupdates10
 cinst -y origin
 cinst -y everything
@@ -32,7 +35,7 @@ cinst -y slack
 cinst -y parsec
 cinst -y filezilla
 cinst -y element-desktop
-cinst -y putty
+cinst -y putty.install
 cinst -y blender
 cinst -y firefox
 cinst -y vivaldi
@@ -40,13 +43,12 @@ cinst -y teamspeak
 cinst -y vscode
 cinst -y openhardwaremonitor
 cinst -y anydesk.install
-cinst -y discord
+cinst -y discord.install
 cinst -y sumo
 cinst -y deepl
 cinst -y xampp-80
 cinst -y msiafterburner
 cinst -y unity-hub
-#cinst -y unity
 cinst -y partitionwizard
 cinst -y zoom
 cinst -y windirstat
@@ -55,7 +57,7 @@ cinst -y winpcap
 cinst -y vysor
 cinst -y streamlabs-obs
 cinst -y supertuxkart
-#cinst -y virtualbox virtualbox-guest-additions-guest.install
+cinst -y virtualbox virtualbox-guest-additions-guest.install
 cinst -y bluescreenview.install
 cinst -y mtputty
 cinst -y kicad
