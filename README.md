@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo.png" width="80"> windowspackages
+<img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="80"> windowspackages
 =============================================  
 
 <p align="center">
