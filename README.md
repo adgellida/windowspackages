@@ -1,3 +1,5 @@
+<a href="https://chocolatey.org" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/windowspackages/main/others/poweredByChocolatey.png" width="120" style="vertical-align:middle;margin:0px 50px" img align="right"></a>
+
 <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="80"> windowspackages
 =============================================  
 
@@ -24,7 +26,7 @@ Then do these basics steps:
 
 1. Install [Chocolatey](https://github.com/adgellida/windowspackages/blob/master/installChocolateyCmd.bat) with admin rights.
 
-2. Modify [MultiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/MultiInstall.ps1) and run it with admin rights.
+2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1) and run it with admin rights.
 
 3. If you want to upgrade the packages installed by chocolatey run [upgradeChocoPackages.ps1](https://github.com/adgellida/windowspackages/blob/master/upgradeChocoPackages.ps1)
 
