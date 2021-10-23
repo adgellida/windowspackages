@@ -27,7 +27,7 @@ cinst -y firefox
 cinst -y freecad
 cinst -y freefilesync
 cinst -y frostwire
-cinst -y google-chrome
+cinst -y googlechrome
 cinst -y jdownloader
 cinst -y jre8
 cinst -y keepassxc
@@ -90,8 +90,6 @@ cinst -y zoom
 #choco-upgrade-all-at-startup
 #clover
 #dirsyncpro
-#googlechrome
-#googlechrome.dev
 #hyper
 #libreoffice
 #nettime

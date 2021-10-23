@@ -37,7 +37,7 @@ Configure apps
 
 * notepadplusplus - not auto-completion
 * open-shell (optional) - control panel as link and categories
-* google-chrome - not translate notification, not remembering passwords, not correction
+* googlechrome - not translate notification, not remembering passwords, not correction
 * sumatrapdf (or adobe reader CC) - default pdf viewer
 
 Configure default programs
