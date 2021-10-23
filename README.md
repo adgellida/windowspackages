@@ -1,4 +1,4 @@
-<a href="https://chocolatey.org" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/windowspackages/main/others/poweredByChocolatey.png" width="120" style="vertical-align:middle;margin:0px 50px" img align="right"></a>
+<a href="https://chocolatey.org" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/others/poweredByChocolatey.png" width="120" style="vertical-align:middle;margin:0px 50px" img align="right"></a>
 
 <img src="https://raw.githubusercontent.com/adgellida/windowspackages/master/logo2.png" width="80"> windowspackages
 =============================================  
