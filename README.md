@@ -26,9 +26,21 @@ Then do these basics steps:
 
 1. Install [Chocolatey](https://github.com/adgellida/windowspackages/blob/master/installChocolateyCmd.bat) with admin rights.
 
-2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1) and run it with admin rights.
+2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1) or [multiInstall2.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall2.ps1)
 
-3. If you want to upgrade the packages installed by chocolatey run [upgradeChocoPackages.ps1](https://github.com/adgellida/windowspackages/blob/master/upgradeChocoPackages.ps1)
+3. Open a terminal with admin rights and execute to enable scripts execution
+
+`Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force`
+
+`Set-ExecutionPolicy Unrestricted -Scope LocalMachine -Force`
+
+4. Then go to your modified multiInstall folder and execute it
+
+`./multiInstall.ps1`
+
+5. If you want to upgrade the packages installed by chocolatey run [upgradeChocoPackages.ps1](https://github.com/adgellida/windowspackages/blob/master/upgradeChocoPackages.ps1)
+
+`./upgradeChocoPackages.ps1`
 
 Important
 =============================================
