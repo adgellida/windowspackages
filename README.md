@@ -28,7 +28,7 @@ Then do these basics steps:
 
 2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1) or [multiInstall2.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall2.ps1)
 
-3. Open a terminal with admin rights and execute to enable scripts execution
+3. Open a Powershell terminal (important) with admin rights and execute to enable scripts execution
 
 `Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force`
 
@@ -41,6 +41,8 @@ Then do these basics steps:
 5. If you want to upgrade the packages installed by chocolatey run [upgradeChocoPackages.ps1](https://github.com/adgellida/windowspackages/blob/master/upgradeChocoPackages.ps1)
 
 `./upgradeChocoPackages.ps1`
+
+You can add this script to an automated task,run at boot, run schedule every so often...
 
 Important
 =============================================
