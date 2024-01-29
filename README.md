@@ -24,7 +24,7 @@ Read the code and do your modifications.
 
 Then do these basics steps:
 
-1. Install [Chocolatey](https://github.com/adgellida/windowspackages/blob/master/installChocolateyCmd.bat) with admin rights.
+1. Install [Chocolatey](https://chocolatey.org/install) with admin rights.
 
 2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1) or [multiInstall2.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall2.ps1)
 
@@ -33,6 +33,12 @@ Then do these basics steps:
 `Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force`
 
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine -Force`
+
+Try this if not works:
+
+`Set-ExecutionPolicy AllSigned`
+
+`Set-ExecutionPolicy Bypass -Scope Process`
 
 4. Then go to your modified multiInstall folder and execute it
 

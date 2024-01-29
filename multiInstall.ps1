@@ -2,81 +2,83 @@
 #https://github.com/adgellida/windowspackages
 #GNU General Public License v2.0
 
-cinst -y aida64-extreme
-cinst -y androidstudio
-cinst -y anydesk.install
-cinst -y audacity
-cinst -y authy.install
-cinst -y blender
-cinst -y bluescreenview.install
-cinst -y brave
-cinst -y chocolateygui
-cinst -y converseen
-cinst -y crystaldiskinfo.install
-cinst -y crystaldiskmark
-cinst -y deepl
-cinst -y discord.install
-cinst -y drawio
-cinst -y dropbox
-cinst -y element-desktop
-cinst -y epicgameslauncher
-cinst -y etcher
-cinst -y everything
-cinst -y filezilla
-cinst -y firefox
-cinst -y freecad
-cinst -y freefilesync
-cinst -y frostwire
-cinst -y googlechrome
-cinst -y jdownloader
-cinst -y jre8
-cinst -y keepassxc
-cinst -y kicad
-cinst -y krita
-cinst -y macrocreator.install
-cinst -y malwarebytes
-cinst -y megasync
-cinst -y msiafterburner
-cinst -y mtputty
-cinst -y openhardwaremonitor
-cinst -y open-shell
-cinst -y origin
-cinst -y parsec
-cinst -y partitionwizard
-cinst -y processhacker.install
-cinst -y putty.install
-cinst -y qbittorrent
-cinst -y skype
-cinst -y slack
-cinst -y smartgit
-cinst -y spotify
-cinst -y steam-client
-cinst -y streamlabs-obs
-cinst -y sublimetext4
-cinst -y sumo
-cinst -y supertuxkart
-cinst -y teamspeak
-cinst -y teamviewer
-cinst -y telegram.install
-cinst -y unity-hub
-cinst -y virtualbox virtualbox-guest-additions-guest.install
-cinst -y vivaldi
-cinst -y vlc
-cinst -y voicemeeter-potato.install
-cinst -y volume2.install
-cinst -y vscode.install
-cinst -y vysor
-cinst -y windirstat
-cinst -y winpcap
-cinst -y winrar
-cinst -y winsys
-cinst -y xampp-80
-cinst -y zoom
+choco install -y aida64-extreme
+#choco install -y androidstudio
+#choco install -y anydesk.install
+#choco install -y audacity
+choco install -y authy.install
+#choco install -y blender
+choco install -y bluescreenview.install
+#choco install -y brave
+choco install -y chocolateygui
+#choco install -y converseen
+choco install -y crystaldiskinfo.install
+#choco install -y crystaldiskmark
+#choco install -y deepl
+choco install -y discord.install
+#choco install -y drawio
+choco install -y dropbox
+#choco install -y element-desktop
+#choco install -y epicgameslauncher
+#choco install -y etcher
+#choco install -y everything
+#choco install -y filezilla
+choco install -y firefox
+#choco install -y freecad
+choco install -y freefilesync
+#choco install -y frostwire
+choco install -y googlechrome
+choco install -y jdownloader
+#choco install -y jre8
+choco install -y keepassxc
+#choco install -y kicad
+#choco install -y krita
+#choco install -y macrocreator.install
+choco install -y malwarebytes
+#choco install -y megasync
+#choco install -y msiafterburner
+#choco install -y mtputty
+#choco install -y notepadplusplus.install
+#choco install -y openhardwaremonitor
+#choco install -y open-shell
+choco install -y origin
+#choco install -y parsec
+choco install -y partitionwizard
+#choco install -y processhacker.install
+#choco install -y putty.install
+choco install -y qbittorrent
+choco install -y rustdesk
+#choco install -y skype
+#choco install -y slack
+#choco install -y smartgit
+choco install -y spotify
+choco install -y steam-client
+#choco install -y streamlabs-obs
+#choco install -y sublimetext4
+choco install -y sumo
+#choco install -y supertuxkart
+#choco install -y teamspeak
+#choco install -y teamviewer
+choco install -y telegram.install
+#choco install -y unity-hub
+#choco install -y virtualbox virtualbox-guest-additions-guest.install
+#choco install -y vivaldi
+choco install -y vlc
+#choco install -y voicemeeter-potato.install
+choco install -y volume2.install
+choco install -y vscode.install
+#choco install -y vysor
+choco install -y windirstat
+#choco install -y winpcap
+choco install -y winrar
+#choco install -y winsys
+#choco install -y xampp-80
+#choco install -y zoom
 
 
 ##not exist
 #converseen
-#kasperskysecurityclod
+#kasperskysecuritycloud
 #prismlivestudio
 #revolt
 #stopupdates10
@@ -93,7 +95,6 @@ cinst -y zoom
 #hyper
 #libreoffice
 #nettime
-#notepadplusplus.install
 #obs-studio.install
 #peazip
 #qtcreator
