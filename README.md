@@ -26,15 +26,15 @@ Then do these basics steps:
 
 1. Install [Chocolatey](https://chocolatey.org/install) with admin rights.
 
-2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1) or [multiInstall2.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall2.ps1)
+2. Modify [multiInstall.ps1](https://github.com/adgellida/windowspackages/blob/master/multiInstall.ps1)
 
 3. Open a Powershell terminal (important) with admin rights and execute to enable scripts execution
 
 `Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force`
 
-`Set-ExecutionPolicy Unrestricted -Scope LocalMachine -Force`
-
 Try this if not works:
+
+`Set-ExecutionPolicy Unrestricted -Scope LocalMachine -Force`
 
 `Set-ExecutionPolicy AllSigned`
 
